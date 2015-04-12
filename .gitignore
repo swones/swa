@@ -57,4 +57,7 @@ docs/_build/
 # PyBuilder
 target/
 
+#Dev sqlite db
 db.sqlite3
+#Dev SASS cache
+.sass-cache/
