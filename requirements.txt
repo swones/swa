@@ -1,0 +1,11 @@
+crispy-forms-foundation==0.5.0
+Django==1.8
+django-allauth==0.19.1
+django-crispy-forms==1.4.0
+ipdb==0.8
+ipython==3.1.0
+MySQL-python==1.2.5
+oauthlib==0.7.2
+python-openid==2.2.5
+requests==2.6.0
+requests-oauthlib==0.4.2
